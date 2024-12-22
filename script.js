@@ -1,11 +1,11 @@
 const quizData = [
     {
       "question": "It ——- at 9:00 in the evening.",
-      "a": "Closes",
-      "b": "Close",
-      "c": "Closed",
+      "a": "Close",
+      "b": "Closed",
+      "c": "Closes",
       "d": "Closing",
-      "correct": "a"
+      "correct": "c"
     },
     {
       "question": "You shouldn’t ——- called him a fool.",
@@ -17,11 +17,11 @@ const quizData = [
     },
     {
       "question": "They ——- finished the job.",
-      "a": "Have",
-      "b": "Has",
-      "c": "Had",
-      "d": "Having",
-      "correct": "a"
+      "a": "Has",
+      "b": "Had",
+      "c": "Having",
+      "d": "Have",
+      "correct": "d"
     },
     {
       "question": "Bad driving ——- many accidents.",
@@ -33,59 +33,59 @@ const quizData = [
     },
     {
       "question": "You ——- the wrong dress for the interview.",
-      "a": "Chose",
-      "b": "Choose",
-      "c": "Choosing",
+      "a": "Choose",
+      "b": "Choosing",
+      "c": "Chose",
       "d": "Chosen",
-      "correct": "a"
+      "correct": "c"
     },
     {
       "question": "Where ——- they go yesterday?",
-      "a": "Did",
-      "b": "Do",
-      "c": "Does",
-      "d": "Doing",
-      "correct": "a"
+      "a": "Do",
+      "b": "Does",
+      "c": "Doing",
+      "d": "Did",
+      "correct": "d"
     },
     {
       "question": "Somebody must ——– take my cellphone.",
-      "a": "Has",
-      "b": "Have",
+      "a": "Have",
+      "b": "Has",
       "c": "Had",
       "d": "Having",
-      "correct": "b"
+      "correct": "a"
     },
     {
       "question": "She —— always wanted to meet him.",
-      "a": "Has",
-      "b": "Have",
-      "c": "Had",
+      "a": "Have",
+      "b": "Had",
+      "c": "Has",
       "d": "Having",
-      "correct": "a"
+      "correct": "c"
     },
     {
       "question": "Anita —— tennis very well.",
-      "a": "Plays",
-      "b": "Play",
+      "a": "Play",
+      "b": "Plays",
       "c": "Playing",
       "d": "Played",
-      "correct": "a"
+      "correct": "b"
     },
     {
       "question": "How much —— it?",
-      "a": "Is",
-      "b": "Was",
-      "c": "Are",
-      "d": "Be",
-      "correct": "a"
+      "a": "Was",
+      "b": "Are",
+      "c": "Be",
+      "d": "Is",
+      "correct": "d"
     },
     {
       "question": "My parents —— in a very small flat.",
-      "a": "Live",
-      "b": "Lives",
-      "c": "Lived",
+      "a": "Lives",
+      "b": "Lived",
+      "c": "Live",
       "d": "Living",
-      "correct": "a"
+      "correct": "c"
     },
     {
       "question": "She does not want ——- not want to stay at home.",
@@ -97,43 +97,43 @@ const quizData = [
     },
     {
       "question": "My friend Anita —— sport.",
-      "a": "Loves",
-      "b": "Love",
-      "c": "Loved",
+      "a": "Love",
+      "b": "Loved",
+      "c": "Loves",
       "d": "Loving",
-      "correct": "a"
+      "correct": "c"
     },
     {
       "question": "You —— riding non-stop for hours so you must be very tired.",
-      "a": "Have been",
-      "b": "Had been",
-      "c": "Have",
+      "a": "Had been",
+      "b": "Have",
+      "c": "Have been",
       "d": "Had",
-      "correct": "a"
+      "correct": "c"
     },
     {
       "question": "What —— you do every Sunday?",
-      "a": "Do",
-      "b": "Does",
-      "c": "Did",
-      "d": "Doing",
-      "correct": "a"
+      "a": "Does",
+      "b": "Did",
+      "c": "Doing",
+      "d": "Do",
+      "correct": "d"
     },
     {
       "question": "Good students always ——- their homework.",
-      "a": "Do",
-      "b": "Does",
+      "a": "Does",
+      "b": "Do",
       "c": "Did",
       "d": "Doing",
-      "correct": "a"
+      "correct": "b"
     },
     {
       "question": "The swimming pool —— at 7:00 in the morning.",
-      "a": "Opens",
-      "b": "Open",
-      "c": "Opened",
-      "d": "Opening",
-      "correct": "a"
+      "a": "Open",
+      "b": "Opened",
+      "c": "Opening",
+      "d": "Opens",
+      "correct": "d"
     },
     {
       "question": "I never —— coffee.",
@@ -145,11 +145,11 @@ const quizData = [
     },
     {
       "question": "The Olympic game —— place every four years.",
-      "a": "Takes",
-      "b": "Take",
+      "a": "Take",
+      "b": "Takes",
       "c": "Took",
       "d": "Taking",
-      "correct": "a"
+      "correct": "c"
     },
     {
       "question": "I —— hungry.",
@@ -169,27 +169,27 @@ const quizData = [
     },
     {
       "question": "They ——- a cat and a dog.",
-      "a": "Have",
-      "b": "Has",
-      "c": "Had",
+      "a": "Has",
+      "b": "Had",
+      "c": "Have",
       "d": "Having",
-      "correct": "a"
+      "correct": "c"
     },
     {
       "question": "The students ——- standing up the anthem.",
-      "a": "Are",
-      "b": "Is",
-      "c": "Was",
+      "a": "Is",
+      "b": "Was",
+      "c": "Are",
       "d": "Were",
-      "correct": "a"
+      "correct": "c"
     },
     {
       "question": "I ——– like to watch TV. There is a good film on.",
-      "a": "Should",
-      "b": "Would",
-      "c": "Could",
-      "d": "Might",
-      "correct": "a"
+      "a": "Would",
+      "b": "Could",
+      "c": "Might",
+      "d": "Should",
+      "correct": "d"
     },
     {
       "question": "My students ——- a little English.",
@@ -201,59 +201,59 @@ const quizData = [
     },
     {
       "question": "He ——– called me twice this morning.",
-      "a": "Has",
-      "b": "Have",
-      "c": "Had",
+      "a": "Have",
+      "b": "Had",
+      "c": "Has",
       "d": "Having",
-      "correct": "a"
+      "correct": "c"
     },
     {
       "question": "Tell me, ——– you coming to the play?",
-      "a": "Are",
-      "b": "Is",
-      "c": "Was",
-      "d": "Were",
-      "correct": "a"
+      "a": "Is",
+      "b": "Was",
+      "c": "Were",
+      "d": "Are",
+      "correct": "d"
     },
     {
       "question": "This museum has got ——- collection of antique objects in the world.",
-      "a": "Larger",
-      "b": "Largest",
-      "c": "Biggest",
+      "a": "Largest",
+      "b": "Biggest",
+      "c": "Larger",
       "d": "More",
-      "correct": "a"
+      "correct": "c"
     },
     {
       "question": "He is ——- I thought.",
-      "a": "Youngest",
-      "b": "Younger",
+      "a": "Younger",
+      "b": "Youngest",
       "c": "Most young",
       "d": "More young",
-      "correct": "a"
+      "correct": "b"
     },
     {
       "question": "My suitcase is ——- than your suitcase.",
-      "a": "Larger",
-      "b": "Largest",
-      "c": "Biggest",
+      "a": "Largest",
+      "b": "Biggest",
+      "c": "Larger",
       "d": "More larger",
-      "correct": "a"
+      "correct": "c"
     },
     {
       "question": "Mr. Sinha ——- Spanish and French.",
-      "a": "Teaches",
-      "b": "Teach",
-      "c": "Teaching",
-      "d": "Taught",
-      "correct": "a"
+      "a": "Teach",
+      "b": "Teaching",
+      "c": "Taught",
+      "d": "Teaches",
+      "correct": "d"
     },
     {
       "question": "Which is the correct sentence?",
-      "a": "Sarvesh never smiles.",
-      "b": "Sarvesh smile never.",
+      "a": "Sarvesh smile never.",
+      "b": "Sarvesh never smiles.",
       "c": "Never Sarvesh smile.",
       "d": "Smile never Sarvesh.",
-      "correct": "a"
+      "correct": "b"
     },
     {
       "question": "Mohan is not such a —— student.",
@@ -265,27 +265,27 @@ const quizData = [
     },
     {
       "question": "——- big building over there is the parliament.",
-      "a": "That",
-      "b": "This",
+      "a": "This",
+      "b": "That",
       "c": "These",
       "d": "Those",
-      "correct": "a"
+      "correct": "b"
     },
     {
       "question": "Which is a correct sentence?",
-      "a": "She really listens to classical music.",
-      "b": "She really listen to classical music.",
+      "a": "She really listen to classical music.",
+      "b": "She really listens to classical music.",
       "c": "She listen really to classical music.",
       "d": "She classical music listens really.",
-      "correct": "a"
+      "correct": "b"
     },
     {
       "question": "I ——- fruit juice very much.",
-      "a": "Like",
-      "b": "Likes",
-      "c": "Liked",
+      "a": "Likes",
+      "b": "Liked",
+      "c": "Like",
       "d": "Liking",
-      "correct": "a"
+      "correct": "c"
     },
     {
       "question": "Which is the correct sentence?",
@@ -305,83 +305,83 @@ const quizData = [
     },
     {
       "question": "—— night the factory was closed so he came home.",
-      "a": "That",
-      "b": "This",
+      "a": "This",
+      "b": "That",
       "c": "Those",
       "d": "These",
-      "correct": "a"
+      "correct": "b"
     },
     {
       "question": "What does ——– notice say?",
-      "a": "That",
-      "b": "This",
-      "c": "These",
+      "a": "This",
+      "b": "These",
+      "c": "That",
       "d": "Those",
-      "correct": "a"
+      "correct": "c"
     },
     {
       "question": "China is —— India.",
-      "a": "Bigger than",
-      "b": "Bigger",
-      "c": "Bigger then",
+      "a": "Bigger",
+      "b": "Bigger then",
+      "c": "Bigger than",
       "d": "More bigger than",
-      "correct": "a"
+      "correct": "b"
     },
     {
       "question": "Here, take ——- folder and put on it the desk over there.",
-      "a": "This",
-      "b": "That",
-      "c": "These",
+      "a": "That",
+      "b": "These",
+      "c": "This",
       "d": "Those",
-      "correct": "a"
+      "correct": "c"
     },
     {
       "question": "The Taj was ——- than the Holiday Inn.",
-      "a": "More expensive",
-      "b": "Expensive",
-      "c": "Most expensive",
+      "a": "Expensive",
+      "b": "Most expensive",
+      "c": "More expensive",
       "d": "Cheaper",
-      "correct": "a"
+      "correct": "c"
     },
     {
       "question": "Ramji is a ——- gardener than Santosh.",
-      "a": "Better",
-      "b": "Best",
-      "c": "Good",
+      "a": "Best",
+      "b": "Good",
+      "c": "Better",
       "d": "Bestest",
-      "correct": "a"
+      "correct": "c"
     },
     {
       "question": "They are both nice girls but I think Suman is ——- of the two.",
-      "a": "The nicer",
-      "b": "The best",
-      "c": "The good",
-      "d": "More nice",
-      "correct": "a"
+      "a": "The best",
+      "b": "The good",
+      "c": "More nice",
+      "d": "The nicer",
+      "correct": "d"
     },
     {
       "question": "Mr. Shah is the ——- man today because he won the lottery.",
-      "a": "Happiest",
-      "b": "Happier",
-      "c": "Happy",
+      "a": "Happier",
+      "b": "Happy",
+      "c": "Happiest",
       "d": "Most happy",
-      "correct": "a"
+      "correct": "c"
     },
     {
       "question": "Fill in the blank with correct option so that this becomes an order. ——- off your mobiles.",
-      "a": "Switch",
-      "b": "Turn",
-      "c": "Put",
-      "d": "Off",
-      "correct": "a"
+      "a": "Turn",
+      "b": "Put",
+      "c": "Off",
+      "d": "Switch",
+      "correct": "d"
     },
     {
       "question": "She ——– playing tennis.",
-      "a": "Likes",
-      "b": "Like",
-      "c": "Liked",
-      "d": "Liking",
-      "correct": "a"
+      "a": "Like",
+      "b": "Liked",
+      "c": "Liking",
+      "d": "Likes",
+      "correct": "d"
     },
     {
       "question": "Don’t ——- late for school.",
@@ -401,11 +401,11 @@ const quizData = [
     },
     {
       "question": "You —– dancing, don’t you?",
-      "a": "Like",
-      "b": "Likes",
-      "c": "Liked",
+      "a": "Likes",
+      "b": "Liked",
+      "c": "Like",
       "d": "Liking",
-      "correct": "a"
+      "correct": "c"
     },
     {
       "question": "I —— to eat a pizza tonight.",
